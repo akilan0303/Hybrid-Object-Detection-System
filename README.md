@@ -29,8 +29,10 @@ How to Run
 Dataset / Files
 
 - Hybrid_Object_Detection_System.ipynb → Main notebook
-- (Optional) images/ → Test images
-- (Optional) videos/ → Test videos
+- images/ → Sample input images
+- videos/ → Sample input video
+- outputs/ → Example output video
+
 
 
 Author
